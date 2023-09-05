@@ -1,0 +1,17 @@
+{
+  "name": "mtg-card-list-prices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get-prices.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node get-prices.js"
+  },
+  "author": "",
+  "license": "GPLv3",
+  "dependencies": {
+    "csv-parse": "^5.4.0",
+    "node-fetch": "^3.3.2"
+  }
+}
